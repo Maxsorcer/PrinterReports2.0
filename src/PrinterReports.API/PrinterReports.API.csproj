@@ -7,7 +7,7 @@
     <UserSecretsId>ff51c654-b777-437e-8cd6-5a0064381090</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <SignAssembly>True</SignAssembly>
-    <AssemblyOriginatorKeyFile>D:\Projects\PrinterReports2.0\PrinterReports\PrinterReports.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\PrinterReports.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
